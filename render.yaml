@@ -9,8 +9,8 @@ services:
     plan: free
     envVars:
       - key: CLOUDINARY_CLOUD_NAME
-        value: "tu-cloud-name"
+        value: "dul26l4sd"
       - key: CLOUDINARY_API_KEY
-        value: "tu-api-key"
+        value: "644893912335333"
       - key: CLOUDINARY_API_SECRET
-        value: "tu-api-secret"
+        value: "B9vTDgb_vZx-9UxXp9Pm6inpEHc"
