@@ -19,9 +19,9 @@ import java.util.Map;
 public class PdfService {
 
     private final Cloudinary cloudinary = new Cloudinary(ObjectUtils.asMap(
-        "cloud_name", "TU_CLOUD_NAME",
-        "api_key", "TU_API_KEY",
-        "api_secret", "TU_API_SECRET"
+        "cloud_name", "dul26l4sd",
+        "api_key", "644893912335333",
+        "api_secret", "B9vTDgb_vZx-9UxXp9Pm6inpEHc"
     ));
 
     @Autowired
